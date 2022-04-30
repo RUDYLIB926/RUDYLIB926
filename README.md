@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RUDYLIB926
+- 👋 Hi, I’m @RudimentaryMan
 - 👀 I’m interested in developing full stack web applications 
 - 🌱 I’m currently learning about functional programming
 
